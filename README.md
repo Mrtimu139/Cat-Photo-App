@@ -1,2 +1,5 @@
 # Cat-Photo-App
 This project is a simple HTML web page named "Cat Photo App" that showcases cat-related content.
+The webpage is structured using HTML5 and includes sections such as "Cat Photos," "Cat Lists," and "Cat Form." Each section features relevant content, including images of cats, a list of things cats love and hate, and a form where users can submit cat photos along with additional information about their cats.
+This project serves as a simple example of structuring an HTML page for a specific theme and can be used as a starting point for beginners learning HTML or as a reference for creating themed webpages. The project is open-source and free to use, following a "No Copyright" policy, and is attributed to freeCodeCamp.org.
+I created this project during the training section of the freeCodeCamp.org course by solving problems. It is one of the best-guided courses I have ever encountered. They teach us through problem-solving and project development, granting permission to add the projects to our GitHub and LinkedIn profiles. It's truly a blessing for beginner developers.
